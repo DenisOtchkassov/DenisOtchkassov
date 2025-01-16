@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Denis Otchkassov</h1>
 <p align="center">Computer Engineering Student</p>
 
-<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/nickrodbasiri/" target="_blank">LinkedIn</a></h3>
+<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/denis-otchkassov/" target="_blank">LinkedIn</a></h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=nickrodbasiri&label=Profile%20views&color=0e75b6&style=flat" alt="nickrodbasiri" /></p>
  
