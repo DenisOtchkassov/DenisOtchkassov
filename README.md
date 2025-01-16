@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/denis-otchkassov/" target="_blank">LinkedIn</a></h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=nickrodbasiri&label=Profile%20views&color=0e75b6&style=flat" alt="nickrodbasiri" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=denisotchkassov&label=Profile%20views&color=0e75b6&style=flat" alt="denisotchkassov" /></p>
  
 <!--
 **DenisOtchkassov/DenisOtchkassov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
