@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Denis Otchkassov 👋</h1>
-<p align="center">🎓 Computer Engineering Student  | 💡 Problem Solver | 🧠 Lifelong Learner</p>
+<p align="center">🎓 Computer Engineering Student |💡 Problem Solver | 🧠 Lifelong Learner</p>
 
 ---
 
