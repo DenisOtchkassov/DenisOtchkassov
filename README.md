@@ -29,10 +29,3 @@
   </a>
 </p>
 
----
-
-### 📌 A Note
-
-If you're working on an idea that needs **systems thinking, cross-disciplinary perspective**, or just someone who enjoys building and improving — feel free to reach out!
-
-<p align="center">Thanks for visiting my GitHub! 👨‍💻</p>
