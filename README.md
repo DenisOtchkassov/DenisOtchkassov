@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Denis Otchkassov 👋</h1>
+<h1 align="center">Hey there, I'm Denis Otchkassov
 <p align="center">Computer Engineering Student · Problem Solver · Lifelong Learner</p>
 
 ---
