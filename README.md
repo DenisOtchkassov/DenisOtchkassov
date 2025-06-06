@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Denis Otchkassov 👋</h1>
 <p align="center"> Computer Engineering Student | Problem Solver | Lifelong Learner</p>
 
----
-
 ### 🧭 About Me
 - 👨‍💻 Passionate about engineering efficient solutions  
 - ⚙️ Exploring both software and hardware sides of computing  
