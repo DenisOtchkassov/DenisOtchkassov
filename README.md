@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Denis Otchkassov 👋</h1>
-<p align="center"><i>Computer Engineering Student · Problem Solver · Lifelong Learner</i></p>
+<p align="center">Computer Engineering Student · Problem Solver · Lifelong Learner</p>
 
-<hr/>
+---
 
 ### 🧭 About Me
 - 💡 &nbsp;Passionate about building efficient and impactful solutions  
