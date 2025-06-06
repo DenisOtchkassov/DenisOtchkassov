@@ -1,17 +1,27 @@
-<h1 align="center">Hey there, I'm Denis Otchkassov
+<h1 align="center">Hi, I'm Denis Otchkassov </h1>
 <p align="center">Computer Engineering Student · Problem Solver · Lifelong Learner</p>
 
 ---
 
-### 🧭 About Me
-- 💡 &nbsp;Passionate about building efficient and impactful solutions  
-- 🛠️ &nbsp;Enjoy exploring both software and hardware aspects of computing  
-- 📘 &nbsp;Always seeking opportunities to grow and learn  
-- 🤝 &nbsp;Open to collaborating on meaningful and challenging projects  
+### 🔍 What I’m Focused On
+
+- ⚙️ Developing a solid foundation in embedded systems and computer architecture  
+- 💻 Building hands-on projects to explore system-level programming and optimization  
+- 🌱 Learning best practices in clean code, testing, and system design  
+- 🤝 Seeking collaborative experiences to solve real-world problems  
 
 ---
 
-### 📫 Let's Connect
+### 🧠 Core Values
+
+- 🔍 **Precision** – I believe clarity and correctness matter in both hardware and software  
+- 🚀 **Growth** – I actively pursue knowledge and value feedback-driven development  
+- 🤝 **Teamwork** – Great engineering happens when people collaborate effectively  
+- 🧩 **Problem Solving** – I enjoy breaking down complex problems into actionable steps  
+
+---
+
+### 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/denis-otchkassov/" target="_blank">
@@ -21,4 +31,8 @@
 
 ---
 
-<p align="center">Thanks for stopping by!</p>
+### 📌 A Note
+
+If you're working on an idea that needs **systems thinking, cross-disciplinary perspective**, or just someone who enjoys building and improving — feel free to reach out!
+
+<p align="center">Thanks for visiting my GitHub! 👨‍💻</p>
